@@ -10,7 +10,7 @@
 ``pip3 install Flask``
 
 ### Edit the script with your API
-``sudo nano app.py``
+``sudo nano drewbytes.py``
 ### Save your script 
 ```
 CTRL + X
