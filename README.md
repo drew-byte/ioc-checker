@@ -18,7 +18,7 @@ Y
 Enter
 ```
 ### Run the script
-`` python3 app.py``
+`` python3 drewbytes.py``
 
 ### Lastly
 Copy paste the ``http`` running in port ``5000`` to your browser.
